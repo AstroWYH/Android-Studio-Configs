@@ -1,0 +1,26 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Debugger.EditFrameSource" />
+  <action id="DomCollectionControl.Edit" />
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction" />
+  <action id="EditSource" />
+  <action id="ExternalSystem.OpenConfig" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="NavBar-navigate" />
+  <action id="OpenModuleSettings" />
+  <action id="ProjectViewEditSource" />
+  <action id="Sql.EditParameter" />
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.EditSource" />
+  <action id="XDebugger.JumpToSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>
