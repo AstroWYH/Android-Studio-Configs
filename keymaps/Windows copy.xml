@@ -2,9 +2,12 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="3" />
@@ -12,6 +15,7 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="2" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
@@ -23,12 +27,13 @@
     <keyboard-shortcut first-keystroke="1" />
   </action>
   <action id="MultiHighlight.ClearAction">
-    <keyboard-shortcut first-keystroke="shift 1" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="SmartSelect" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowTooltip">
     <mouse-shortcut keystroke="alt button2" />
