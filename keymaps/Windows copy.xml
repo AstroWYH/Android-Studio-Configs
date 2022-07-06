@@ -3,9 +3,14 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="Android.Designer.AutoArrange" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -17,6 +22,7 @@
     <keyboard-shortcut first-keystroke="2" />
   </action>
   <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
