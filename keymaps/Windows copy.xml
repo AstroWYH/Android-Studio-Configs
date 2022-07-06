@@ -2,6 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Android.Designer.AutoArrange" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
@@ -33,8 +34,13 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="SmartSelect" />
+  <action id="Terminal.ClearBuffer" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.ShowTooltip">
     <mouse-shortcut keystroke="alt button2" />
   </action>
