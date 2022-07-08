@@ -1,19 +1,16 @@
-<keymap version="1" name="Windows copy" parent="$default">
+<keymap version="1" name="Windows copy Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="Android.Designer.AutoArrange" />
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl 2" />
-  </action>
-  <action id="DuplicatesForm.SendToLeft" />
-  <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorSelectWord" />
-  <action id="FileChooser.GotoHome" />
-  <action id="FileChooser.GotoProject" />
+  <action id="EditorDeleteLine" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindInPath">
-    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="3" />
@@ -21,8 +18,6 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="2" />
   </action>
-  <action id="GotoBookmark1" />
-  <action id="GotoBookmark2" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
@@ -34,23 +29,16 @@
     <keyboard-shortcut first-keystroke="1" />
   </action>
   <action id="MultiHighlight.ClearAction">
-    <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="shift 1" />
   </action>
   <action id="ParameterInfo" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="ctrl l" />
-  </action>
-  <action id="SmartSelect" />
-  <action id="Terminal.ClearBuffer" />
   <action id="UpdateRunningApplication" />
-  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.ShowTooltip">
     <mouse-shortcut keystroke="alt button2" />
   </action>
-  <action id="Vcs.UpdateProject" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
