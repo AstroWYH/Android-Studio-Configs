@@ -3,7 +3,7 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-08-01T01:23:51</property>
+    <property name="modified">2022-08-01T01:41:40</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
@@ -156,7 +156,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="133366" />
+        <option name="FOREGROUND" value="ac7709" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
