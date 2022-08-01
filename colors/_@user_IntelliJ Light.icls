@@ -3,7 +3,7 @@
     <property name="created">2022-06-22T13:41:13</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-07-16T15:39:59</property>
+    <property name="modified">2022-07-09T02:45:39</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -21,6 +21,18 @@
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="c7edcc" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="585858" />
+        <option name="BACKGROUND" value="c7edcc" />
+      </value>
+    </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="7f0000" />
@@ -50,7 +62,7 @@
       <value>
         <option name="FOREGROUND" value="6dcc" />
         <option name="EFFECT_COLOR" value="6dcc" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -302,6 +314,9 @@
       </value>
     </option>
     <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6dcc" />
@@ -334,6 +349,9 @@
       <value>
         <option name="FOREGROUND" value="264eff" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
@@ -383,7 +401,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="93d9d9" />
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
