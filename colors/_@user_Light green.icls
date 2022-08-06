@@ -3,13 +3,19 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-08-01T01:41:40</property>
+    <property name="modified">2022-08-07T01:19:13</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
     <option name="GUTTER_BACKGROUND" value="c7edcc" />
   </colors>
   <attributes>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="aa3731" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="ff" />
@@ -93,6 +99,12 @@
         <option name="FOREGROUND" value="133366" />
       </value>
     </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="2452a2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JAVA_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="e9bdc" />
@@ -151,7 +163,7 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="133366" />
+        <option name="FOREGROUND" value="aa3731" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
@@ -160,7 +172,10 @@
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="aa3731" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="TEXT">
       <value>
