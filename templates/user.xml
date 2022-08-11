@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="w" value=" // wyh" toReformat="false" toShortenFQNames="true">
+  <template name="w" value=" // wyh" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="c" value="true" />
