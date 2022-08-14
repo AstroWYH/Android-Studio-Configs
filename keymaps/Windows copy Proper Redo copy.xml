@@ -60,6 +60,10 @@
   </action>
   <action id="SmartSelect" />
   <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <mouse-shortcut keystroke="button3" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.ShowTooltip">
