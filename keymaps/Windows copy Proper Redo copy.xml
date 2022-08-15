@@ -1,4 +1,9 @@
-<keymap version="1" name="Windows copy" parent="$default">
+<keymap version="1" name="Windows copy Proper Redo copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -15,6 +20,7 @@
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorContextInfo" />
+  <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
@@ -54,6 +60,10 @@
   </action>
   <action id="SmartSelect" />
   <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <mouse-shortcut keystroke="button3" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.ShowTooltip">
