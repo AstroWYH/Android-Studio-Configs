@@ -64,9 +64,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="SmartSelect">
-    <mouse-shortcut keystroke="button1" />
-  </action>
+  <action id="SmartSelect" />
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
