@@ -21,9 +21,7 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine" />
-  <action id="EditorSelectWord">
-    <mouse-shortcut keystroke="button1" />
-  </action>
+  <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
@@ -66,7 +64,9 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="SmartSelect" />
+  <action id="SmartSelect">
+    <mouse-shortcut keystroke="button1" />
+  </action>
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
