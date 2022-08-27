@@ -49,9 +49,7 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="HideActiveWindow" />
-  <action id="HighlightUsagesInFile">
-    <mouse-shortcut keystroke="button1" />
-  </action>
+  <action id="HighlightUsagesInFile" />
   <action id="MultiHighlight">
     <keyboard-shortcut first-keystroke="1" />
   </action>
