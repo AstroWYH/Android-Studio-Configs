@@ -1,6 +1,7 @@
 <application>
   <component name="BlazeUserSettings">
     <option name="bazelBinaryPath" value="D:\Bazel\bazel.exe" />
+    <option name="buildifierBinaryPath" value="D:\Bazel\buildifier.exe" />
     <option name="syncStatusPopupShown" value="true" />
   </component>
 </application>
