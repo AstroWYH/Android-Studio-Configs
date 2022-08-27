@@ -31,6 +31,9 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="FindModal">
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="3" />
   </action>
@@ -46,7 +49,9 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="HideActiveWindow" />
-  <action id="HighlightUsagesInFile" />
+  <action id="HighlightUsagesInFile">
+    <mouse-shortcut keystroke="button1" />
+  </action>
   <action id="MultiHighlight">
     <keyboard-shortcut first-keystroke="1" />
   </action>
