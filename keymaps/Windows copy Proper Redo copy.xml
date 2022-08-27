@@ -21,7 +21,7 @@
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
     <mouse-shortcut keystroke="button1" />
   </action>
   <action id="FileChooser.GotoHome" />
