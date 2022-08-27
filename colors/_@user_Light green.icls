@@ -3,7 +3,7 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-08-07T01:19:13</property>
+    <property name="modified">2022-08-28T05:36:04</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
@@ -88,6 +88,12 @@
     </option>
     <option name="HTML_CODE">
       <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffe4ef" />
+        <option name="ERROR_STRIPE_COLOR" value="ffa8a8" />
+      </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
