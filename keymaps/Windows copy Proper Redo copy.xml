@@ -10,6 +10,7 @@
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="ActivateProjectToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
@@ -45,6 +46,7 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl w" />
