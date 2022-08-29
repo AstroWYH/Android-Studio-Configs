@@ -146,14 +146,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.comp">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -271,28 +263,12 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.frag">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.fs">
           <value>
             <plugin>
               <option name="myPluginId" value="org.jetbrains.android" />
               <option name="myPluginName" value="Android" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.fsh">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="GLSL" />
-              <option name="myPluginName" value="GLSL Support" />
             </plugin>
           </value>
         </entry>
@@ -332,14 +308,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.geom">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.gif">
           <value>
             <plugin>
@@ -355,14 +323,6 @@
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.glsl">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -699,6 +659,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.markdown">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.md">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.markdown" />
+              <option name="myPluginName" value="Markdown" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.mdb">
           <value>
             <plugin>
@@ -960,14 +936,6 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.shader">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="GLSL" />
-              <option name="myPluginName" value="GLSL Support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.sht">
           <value>
             <plugin>
@@ -1028,22 +996,6 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.tesc">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.tese">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -1110,28 +1062,12 @@
             </plugin>
           </value>
         </entry>
-        <entry key="*.vert">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="OpenGL Support" />
-            </plugin>
-          </value>
-        </entry>
         <entry key="*.vsd">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
-            </plugin>
-          </value>
-        </entry>
-        <entry key="*.vsh">
-          <value>
-            <plugin>
-              <option name="myPluginId" value="GLSL" />
-              <option name="myPluginName" value="GLSL Support" />
             </plugin>
           </value>
         </entry>
@@ -1416,6 +1352,11 @@
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="BlazeCommandRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Bazel Command" pluginName="Bazel" pluginId="com.google.idea.bazel.aswb" />
                     </value>
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
