@@ -7,6 +7,7 @@
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -46,7 +47,7 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl w" />
