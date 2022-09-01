@@ -106,6 +106,9 @@
   </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.MatchCaseAction">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="Vcs.Log.ShowTooltip">
     <mouse-shortcut keystroke="alt button2" />
   </action>
