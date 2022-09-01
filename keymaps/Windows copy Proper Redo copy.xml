@@ -61,6 +61,9 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Git.Rename.Local.Branch">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
