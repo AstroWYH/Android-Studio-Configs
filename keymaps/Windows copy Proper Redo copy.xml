@@ -7,6 +7,7 @@
   <action id="ActivateBuildToolWindow">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -23,10 +24,10 @@
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="BrowseWordAtCaretPlugin.Next">
-    <keyboard-shortcut first-keystroke="3" />
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="BrowseWordAtCaretPlugin.Previous">
-    <keyboard-shortcut first-keystroke="2" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -46,16 +47,16 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="3" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="2" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt w" />
