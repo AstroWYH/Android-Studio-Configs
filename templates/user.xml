@@ -6,7 +6,7 @@
       <option name="cpp" value="true" />
     </context>
   </template>
-  <template name="q" value=" // YooHan" toReformat="false" toShortenFQNames="true">
+  <template name="q" value=" // [YooHan]" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
