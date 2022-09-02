@@ -4,9 +4,6 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ActivateBuildToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
@@ -97,6 +94,10 @@
   <action id="Replace" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
