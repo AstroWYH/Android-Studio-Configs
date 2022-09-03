@@ -1,4 +1,9 @@
 <keymap version="1" name="Windows copy Proper Redo copy" parent="$default">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -29,17 +34,25 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="CodeCompletion">
+  <action id="CodeCompletion" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
@@ -69,6 +82,7 @@
   </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
+  <action id="GotoBookmark3" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
