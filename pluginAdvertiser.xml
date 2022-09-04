@@ -150,7 +150,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -275,7 +275,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -328,7 +328,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -354,7 +354,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -1035,7 +1035,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -1043,7 +1043,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
@@ -1114,7 +1114,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="OpenGL-Plugin" />
-              <option name="myPluginName" value="GLSL" />
+              <option name="myPluginName" value="OpenGL Support" />
             </plugin>
           </value>
         </entry>
