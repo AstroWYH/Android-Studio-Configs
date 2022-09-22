@@ -3,7 +3,7 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-08-28T07:23:15</property>
+    <property name="modified">2022-09-22T15:10:54</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
@@ -170,6 +170,12 @@
     <option name="OC.STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="24a291" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.TEMPLATE_TYPE">
+      <value>
+        <option name="FOREGROUND" value="371f80" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
