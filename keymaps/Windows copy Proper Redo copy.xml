@@ -126,6 +126,10 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
     <mouse-shortcut keystroke="button3" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.MatchCaseAction">
