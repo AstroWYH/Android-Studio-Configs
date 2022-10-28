@@ -2,12 +2,14 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="*shader*.h" type="Glsl File" />
+      <mapping pattern="*_trigonometric*.h" type="Glsl File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="h" approved="true" type="Glsl File" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="*_trigonometric_.h" approved="true" type="Glsl File" />
     </extensionMap>
   </component>
 </application>
