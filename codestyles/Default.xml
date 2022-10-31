@@ -12,6 +12,10 @@
   <codeStyleSettings language="Glsl">
     <option name="SPACE_BEFORE_COLON" value="false" />
   </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
