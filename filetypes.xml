@@ -5,7 +5,12 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="h" approved="true" type="Glsl File" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern="*_trigonometric*.h" approved="true" type="Glsl File" />
+      <removed_mapping pattern="*_trigonometric_.h" approved="true" type="Glsl File" />
+      <removed_mapping pattern="*shader*.h" approved="true" type="Glsl File" />
+      <removed_mapping pattern="dilate_erode_box_filter.h" approved="true" type="Glsl File" />
     </extensionMap>
   </component>
 </application>

@@ -288,6 +288,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.fsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="OpenGL-Plugin" />
+              <option name="myPluginName" value="GLSL" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.fxml">
           <value>
             <plugin>
@@ -373,6 +381,14 @@
               <option name="myPluginId" value="org.intellij.groovy" />
               <option name="myPluginName" value="Groovy" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.gsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="OpenGL-Plugin" />
+              <option name="myPluginName" value="GLSL" />
             </plugin>
           </value>
         </entry>
@@ -1124,6 +1140,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vsh">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="OpenGL-Plugin" />
+              <option name="myPluginName" value="GLSL" />
             </plugin>
           </value>
         </entry>
