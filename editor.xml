@@ -4,12 +4,11 @@
     <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="10" />
+    <option name="AUTOREPARSE_DELAY" value="1" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="Monaco" />
-    <option name="LINE_SPACING" value="1.0" />
+    <option name="FONT_FAMILY" value="Consolas" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
@@ -19,6 +18,7 @@
     <option name="IS_CARET_BLINKING" value="false" />
     <option name="CARET_BLINKING_PERIOD" value="1500" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
   <component name="InlayHintsSettings">
