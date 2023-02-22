@@ -69,7 +69,7 @@
     <keyboard-shortcut first-keystroke="2" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Git.Log.Branches.Change.Branch.Filter">
     <keyboard-shortcut first-keystroke="enter" />

@@ -689,6 +689,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-helper" />
+              <option name="myPluginName" value="LeetCode with labuladong" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.li">
           <value>
             <plugin>
@@ -704,6 +712,14 @@
               <option name="myPluginId" value="com.intellij.cidr.base" />
               <option name="myPluginName" value="CIDR Base" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
             </plugin>
           </value>
         </entry>
@@ -1328,6 +1344,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".lcv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="leetcode-helper" />
+              <option name="myPluginName" value="LeetCode with labuladong" />
             </plugin>
           </value>
         </entry>
