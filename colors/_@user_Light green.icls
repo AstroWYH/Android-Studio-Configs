@@ -3,7 +3,7 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-02-23T14:38:25</property>
+    <property name="modified">2023-02-23T16:33:49</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
@@ -164,7 +164,7 @@
     </option>
     <option name="OC.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="5881c3" />
+        <option name="FOREGROUND" value="194483" />
       </value>
     </option>
     <option name="OC.MACRONAME">
@@ -190,7 +190,7 @@
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="194483" />
+        <option name="FOREGROUND" value="5881c3" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
