@@ -3,7 +3,7 @@
     <property name="created">2023-02-22T20:27:57</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-02-23T13:54:29</property>
+    <property name="modified">2023-02-23T14:06:59</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -711,7 +711,7 @@
     </option>
     <option name="OC.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="a79494" />
+        <option name="FOREGROUND" value="b5a3a3" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
