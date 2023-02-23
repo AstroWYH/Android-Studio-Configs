@@ -3,7 +3,7 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2023-02-23T17:06:58</property>
+    <property name="modified">2023-02-23T17:23:35</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
@@ -147,6 +147,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="OC.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="OC.ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="ac7709" />
@@ -174,6 +180,12 @@
         <option name="FOREGROUND" value="75118d" />
       </value>
     </option>
+    <option name="OC.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="OC.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="194483" />
@@ -181,13 +193,25 @@
     </option>
     <option name="OC.MACRONAME">
       <value>
-        <option name="FOREGROUND" value="aa3731" />
+        <option name="FOREGROUND" value="f16983" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.MACRO_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="24a291" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="OC.NAMESPACE_LIKE">
+      <value>
+        <option name="FOREGROUND" value="24a291" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="e9bdc" />
+        <option name="FOREGROUND" value="7a6a7a" />
       </value>
     </option>
     <option name="OC.PARAMETER">
