@@ -3,7 +3,7 @@
     <property name="created">2022-08-01T00:45:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.26</property>
-    <property name="modified">2022-10-31T17:09:51</property>
+    <property name="modified">2023-02-23T14:19:47</property>
     <property name="originalScheme">Light green</property>
   </metaInfo>
   <colors>
@@ -155,6 +155,11 @@
     <option name="OC.HEADER_PATH">
       <value>
         <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="5881c3" />
       </value>
     </option>
     <option name="OC.MACRONAME">
