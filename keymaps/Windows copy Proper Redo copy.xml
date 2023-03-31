@@ -21,6 +21,9 @@
   </action>
   <action id="Android.Designer.AutoArrange" />
   <action id="Arrangement.Rule.Edit" />
+  <action id="AttachProject">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="BrowseWordAtCaretPlugin.AutoHighlight">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
@@ -111,6 +114,10 @@
   <action id="GotoSuperMethod" />
   <action id="HideActiveWindow" />
   <action id="HighlightUsagesInFile" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
   <action id="MultiHighlight">
     <keyboard-shortcut first-keystroke="1" />
   </action>
