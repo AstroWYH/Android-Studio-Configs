@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[136/137] Linking CXX static library features\base\libsdkcommon.a" />
+        <option value="CMakeFiles/AncHumanVideoBokehV4.dir/features/cinemamode/src/calculators/cinema_mode_render_calculator.cc.o: In function `std::__ndk1::__unique_if&lt;render::GlBokehDispEngine&gt;::__unique_single std::__ndk1::make_unique&lt;render::GlBokehDispEngine&gt;()':" />
+      </list>
+    </option>
+  </component>
+</application>
