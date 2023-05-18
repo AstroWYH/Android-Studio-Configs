@@ -80,12 +80,12 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="3" />
     <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="3" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="2" />
     <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="2" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt s" />
