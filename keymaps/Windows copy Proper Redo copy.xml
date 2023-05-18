@@ -81,11 +81,11 @@
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="3" />
-    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="2" />
-    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -145,10 +145,6 @@
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
-  <action id="SelectIn">
-    <keyboard-shortcut first-keystroke="alt f1" />
-    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
